@@ -48,7 +48,9 @@ If you want to change the color of the cursor or want to change the cursor to a 
 ```kotlin
 TouchMouseManager.setOptions(
   TouchMouseOption(
+    // set custom color, default value is null
     cursorColor = R.color.my_color,
+    // or set custom drawable, default value is null
     cursorDrawable = R.drawable.my_custom_drawable
   )
 )
