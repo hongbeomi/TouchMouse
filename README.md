@@ -27,7 +27,7 @@ And add a this code to your **module**`s ```build.gradle``` file
 
 ## 👀 Preview
 
-
+![preview](https://github.com/hongbeomi/TouchMouse/blob/main/touch-mouse-sample.gif)
 
 <br/>
 
