@@ -3,7 +3,7 @@ plugins {
     id 'kotlin-android'
 }
 apply plugin: 'com.github.dcendents.android-maven'
-group = 'github.hongbeomi.dividerseekbar'
+group = 'github.hongbeomi.touchmouse'
 version = '1.0.1'
 
 android {
