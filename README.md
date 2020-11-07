@@ -27,7 +27,7 @@ And add a this code to your **module**`s ```build.gradle``` file
 
 ```groovy
 dependencies {
-  implementation "com.github.hongbeomi:TouchMouse:1.0.1"
+  implementation 'com.github.hongbeomi:TouchMouse:1.0.1'
 }
 ```
 
