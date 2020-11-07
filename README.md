@@ -4,6 +4,8 @@
 
 [![](https://jitpack.io/v/hongbeomi/TouchMouse.svg)](https://jitpack.io/#hongbeomi/TouchMouse) ![license](https://img.shields.io/github/license/hongbeomi/TouchMouse?color=blue&logo=apache) ![api](https://img.shields.io/badge/API-21%2B-darkgreen.svg?style=flat&logo=android)
 
+![logo](https://github.com/hongbeomi/TouchMouse/blob/main/touch-mouse-logo.png)
+
 <br/>
 
 ## 🚀 Quick Start
