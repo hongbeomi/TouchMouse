@@ -1,0 +1,3 @@
+include ':TouchMouse'
+include ':app'
+rootProject.name = "touchMouse"

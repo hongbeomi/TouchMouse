@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="github.hongbeomi.touchmouse">
+
+    <application>
+        <provider
+            android:name=".TouchMouseProvider"
+            android:authorities="${applicationId}.touchmouseprovider"
+            android:exported="false" />
+    </application>
+
+</manifest>
